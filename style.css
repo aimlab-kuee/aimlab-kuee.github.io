@@ -24,6 +24,13 @@ bullet_title {
 	/* font-weight: bold; */
 }
 
+
+comsocvts_journal { 
+	color:black; /* #FF9E0F; */
+	background:#eaeaea;
+	/* font-weight: bold; */
+}
+
 emph1 { /* emphasis level 1 */
 	color:#A81E35; 
 }
