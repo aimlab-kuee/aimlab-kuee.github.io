@@ -43,7 +43,10 @@ emph2 { /* emphasis level 2 */
 }
 
 emph_primary { /* emphasis level 0 */
-	color:red; /* #FF9E0F; */
+	color:black; /* #FF9E0F; */
+	/*background:#eaeaea;*/
+	background:#fae0e4;
+	/* font-weight: bold; */
 }
 
 
