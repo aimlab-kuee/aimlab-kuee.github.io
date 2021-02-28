@@ -45,6 +45,12 @@ emph1 { /* emphasis level 1 */
 }
 
 emph2 { /* emphasis level 2 */
+	color:#FFFFFF; /* #FF9E0F; */
+	background:#e45c72;
+	/* font-weight: bold; */
+}
+
+emph3 { /* emphasis level 2 */
 	color:#FF0000; /* #FF9E0F; */
 	/* background:#F4F4F4; */
 	/* font-weight: bold; */
